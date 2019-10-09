@@ -2,147 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/indexs2/</loc>
-     <lastmod>2019-09-26</lastmod>
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/index3/</loc>
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/index4/</loc>
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/getting-started/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/admonition/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/codehilite/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/footnotes/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/metadata/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/permalinks/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/pymdown/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/specimen/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/customization/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/compliance/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/release-notes/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/authors-notes/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/contributing/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/license/</loc>
-<<<<<<< HEAD
-     <lastmod>2019-09-26</lastmod>
-=======
-     <lastmod>2019-09-14</lastmod>
->>>>>>> b5a51f7612881756bba2663aa03fadab9480640e
+     <lastmod>2019-10-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
