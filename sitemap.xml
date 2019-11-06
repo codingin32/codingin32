@@ -6,8 +6,8 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://squidfunk.github.io/mkdocs-material/index2/</loc>
+     <lastmod>2019-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -17,6 +17,11 @@
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/index4/</loc>
+     <lastmod>2019-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/index5/</loc>
      <lastmod>2019-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
